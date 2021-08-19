@@ -13,7 +13,7 @@
       <p>Authors :<br>D4RKH0R1Z0N</p>
     </div>
     <div class="languages" align="center">
-      <h5>Languages : HTML, CSS and PHP</h5>
+      <p>Languages : HTML, CSS and PHP</p>
     </div>
     <br>
     <br>
