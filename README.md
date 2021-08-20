@@ -2,13 +2,12 @@
   <h3 align="center">D4RKH0R1Z0N'S WebSite</h3>
   <br>
   <div class="Project-Progress" align="center">
-    <img src="https://progress-bar.dev/100/">
+    <img src="https://progress-bar.dev/56/">
     <div class="status">
-      <p>Project Complete!</p>
+      <p>Project under Progress!</p>
     </div>
   </div>
   <div class="content" align="center">
-    <p>D4RKH0R1Z0N's WebSite<br>About : A profile card website made using HTML and CSS<br>Not very much but still fun to work on!</p>
     <div class="authors" align="center">
       <p>Authors :<br>D4RKH0R1Z0N</p>
     </div>
